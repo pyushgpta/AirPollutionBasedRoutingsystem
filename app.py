@@ -1,7 +1,7 @@
 import flask
 from flask import request, url_for, render_template, redirect
 
-
+#integration using Flask
 
 app = flask.Flask(__name__)
 
